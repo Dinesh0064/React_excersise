@@ -1,0 +1,73 @@
+[
+    {
+    "id": 1,
+    "Name": "apple",
+    "Age":23,
+    "Address":"Hyderabad",
+    "Country":"INDIA",
+    "isMarried":true
+    },
+    {
+    "id": 2,
+    "Name": "banana",
+    "Age":24,
+    "Address":"Chennai",
+    "Country":"INDIA",
+    "isMarried":false
+    },
+    {
+    "id": 3,
+    "Name": "xyz",
+    "Age":26,
+    "Address":"Bengaluru",
+    "Country":"INDIA",
+    "isMarried":true
+    },
+    {
+    "id": 4,
+    "Name": "abc",
+    "Age":28,
+    "Address":"Vizag",
+    "Country":"INDIA",
+    "isMarried":false
+    },
+    {
+    "id": 5,
+    "Name": "Dinesh",
+    "Age":30,
+    "Address":"Delhi",
+    "Country":"INDIA",
+    "isMarried":true
+    },
+    {
+    "id": 6,
+    "Name": "Hello",
+    "Age":32,
+    "Address":"Mumbai",
+    "Country":"INDIA",
+    "isMarried":false
+    },
+    {
+    "id": 7,
+    "Name": "Srinu",
+    "Age":34,
+    "Address":"Kolkata",
+    "Country":"INDIA",
+    "isMarried":false
+    },
+    {
+    "id": 8,
+    "Name": "Covid",
+    "Age":36,
+    "Address":"Noida",
+    "Country":"INDIA",
+    "isMarried":true
+    },
+    {
+    "id": 9,
+    "Name": "King",
+    "Age":38,
+    "Address":"Agra ",
+    "Country":"INDIA",
+    "isMarried":false
+    }]
